@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "sketchtool-cli": "^0.0.3"
+  },
+  "name": "sketchtool-cli-example",
+  "description": "sketchtool cli example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezafaizarahman/sketchtool-cli-example.git"
+  },
+  "keywords": [
+    "sketch",
+    "export",
+    "sketchtool"
+  ],
+  "author": "rezafaizarahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezafaizarahman/sketchtool-cli-example/issues"
+  },
+  "homepage": "https://github.com/rezafaizarahman/sketchtool-cli-example#readme"
+}
